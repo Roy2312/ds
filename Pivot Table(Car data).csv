@@ -1,0 +1,27 @@
+Make,Model,Color,Sum of Profit,Average of Buy Price,Count of Mileage,Count of Make
+Chevrolet,Impala,Silver,291,3500,1,1
+,Impala Total,,291,3500,1,1
+,Silverado,Green,459,4500,1,1
+,Silverado Total,,459,4500,1,1
+Chevrolet Total,,,750,4000,2,2
+Dodge,Charger,Silver,1101,3750,2,2
+,Charger Total,,1101,3750,2,2
+Dodge Total,,,1101,3750,2,2
+Ford,F-150,Black,595,3900,1,1
+,F-150 Total,,595,3900,1,1
+Ford Total,,,595,3900,1,1
+Honda,Accord,Blue,500,2000,1,1
+,,Red,1000,3000,1,1
+,Accord Total,,1500,2500,2,2
+,Civic,White,823,1900,1,1
+,Civic Total,,823,1900,1,1
+Honda Total,,,2323,2300,3,3
+Nissan,Altima,Green,826,3000,1,1
+,Altima Total,,826,3000,1,1
+Nissan Total,,,826,3000,1,1
+Toyota,Camry,Black,1000,44000,1,1
+,Camry Total,,1000,44000,1,1
+,Corolla,Black,124,2100,1,1
+,Corolla Total,,124,2100,1,1
+Toyota Total,,,1124,23050,2,2
+Grand Total,,,6719,6854.545455,11,11

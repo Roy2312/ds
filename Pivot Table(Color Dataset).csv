@@ -1,0 +1,12 @@
+Color,Region,Sum of Sales,Sum of Units
+Blue,East,104000,13
+,North,138000,14
+,South,96000,8
+Blue Total,,338000,35
+Green,North,25000,8
+,West,113000,4
+Green Total,,138000,12
+Red,South,60000,2
+,West,110000,1
+Red Total,,170000,3
+Grand Total,,646000,50

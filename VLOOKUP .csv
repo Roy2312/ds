@@ -1,0 +1,21 @@
+Supplier ID,Part Number,Part Name,Part Price,Status,,Ans,
+SP301,A001,water,6800,In,,,
+SP302,A002,alternator,3800,In,,,
+SP303,A003,air filter,4500,In,,,
+SP304,A004,bearing wheel,3582,In stock,,,
+SP305,A005,muffler,1600,In,,,
+SP306,A006,oil pan,1005,Out of stock,,,
+SP307,A007,brake pads,6500,In,,,
+SP308,A008,brake rotors,8549,Out of stock,,,
+SP309,A009,headlight,6500,In,,,
+SP310,A010,brake,1500,In,,1500,Find the Part Price for Part Name “Brake”:
+SP311,A011,Strut,4500,In,,,
+SP312,A012,Deive,1580,In,,,
+SP313,A013,CV Boot Kit,2650,In stock,,,
+SP314,A014,Oil Pump,4660,In,,SP314,Find the Supplier ID for the Part Name “Oil Pump”:
+SP315,A015,Oil Filter,4350,In,,,
+SP316,A016,Fuel Filter,1280,In,,Fuel Filter,"Find the Part Name for Part Number ""A016"":"
+SP317,A017,Tie Rod End,1800,In stock,,,
+SP318,A018,Ball Joint,2500,Out of stock,,,
+SP319,A019,Steering Rack,2700,Out of stock,,,
+SP320,A020,piston,4500,Out of stock,,Out of stock,"Find the Status of Part Number ""A020"":"
